@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'antonregular';
-    src: url('https://rockstarwebco.com/css/fonts/anton-webfont.woff2') format('woff2'),
-         url('https://rockstarwebco.com/css/fonts/anton-webfont.woff') format('woff'),
-         url('https://rockstarwebco.com/css/fonts/anton-webfont.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-
-}

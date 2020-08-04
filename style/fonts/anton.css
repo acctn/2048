@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'antonregular';
+    src: url('anton-webfont.woff2') format('woff2'),
+         url('anton-webfont.woff') format('woff'),
+         url('anton-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
